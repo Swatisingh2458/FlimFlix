@@ -1,0 +1,12 @@
+<svg width="300" height="100" viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="300" height="100" fill="#121212" rx="10"/>
+
+    <!-- Text -->
+    <text x="50%" y="55%" font-family="Arial, sans-serif" font-size="40" fill="#FF3D00" font-weight="bold" text-anchor="middle">
+        FlimFlix
+    </text>
+
+    <!-- Play Icon -->
+    <polygon points="230,35 260,50 230,65" fill="#FF3D00"/>
+</svg>
